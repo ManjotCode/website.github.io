@@ -1,0 +1,39 @@
+body{
+  background:#1b1b1b;
+  color:white;
+}
+
+.Anime{
+  color:red;
+}
+.me{
+  width: 200px;
+      <p></p>
+  margin: 3px;
+  border-radius: 2px;
+  border-color: white;
+}
+
+
+.top{
+  text-align:center ;
+}
+
+
+.profile{
+  text-align: center;
+}
+
+.posts{
+  text-align: center;
+
+}
+
+.Projects{
+  text-align: center;
+
+}
+
+a{
+  color: #33bbff;;
+}
