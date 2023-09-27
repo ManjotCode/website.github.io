@@ -37,3 +37,8 @@ body{
 a{
   color: #33bbff;;
 }
+
+.p-tags{
+  text-align:left;
+  margin-left: 3%;
+}
