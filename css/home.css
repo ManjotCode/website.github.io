@@ -4,3 +4,21 @@ body{
   margin:10%;
 
 }
+
+.title{
+	color: sandybrown;
+	text-align: center;
+	font-size: 40px;
+	margin: 4px;
+}
+
+.intro{
+	margin: auto;
+	font-size: large;
+}
+
+.manjot{
+	color: red;
+	text-align: center;
+	font-size: 40px;
+}
