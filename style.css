@@ -2,6 +2,7 @@ body{
   color:white;
   background:#1b1b1b;
   margin: 10%;
+  margin-top: 0;
 }
 
 .Anime{
@@ -42,4 +43,7 @@ a{
 .p-tags{
   text-align:left;
   margin-left: 3%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
 }
