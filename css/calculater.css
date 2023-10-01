@@ -1,0 +1,12 @@
+body{
+    color:white;
+    background:#1b1b1b;
+    margin: 10%;
+    margin-top: 0;
+}
+
+.iner-box{
+    backface-visibility: 10%;
+    background-color: black;
+
+}
